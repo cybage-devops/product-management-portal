@@ -137,4 +137,5 @@ The application can be containerized using Docker. Below are the steps to build 
    docker push aws_account_id.dkr.ecr.your_aws_region.amazonaws.com/your_ECR_repository:tag
 
 
+aws_secret_access_key= "xf5LnkHNLfcMbHnBGK8pigr6lxl6gN5k07Xvdte6"
 
